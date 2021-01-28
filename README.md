@@ -1,2 +1,2 @@
 # kb.arashi.io
-Knowledge base for ARASHI apps.
+Knowledge base site for ARASHI apps.
